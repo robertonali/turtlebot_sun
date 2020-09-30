@@ -1,0 +1,8 @@
+prefix=/home/chetzz/catkin_ws/src/turtlebot_sun/build/devel
+
+Name: turtlebot_sun
+Description: Description of turtlebot_sun
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

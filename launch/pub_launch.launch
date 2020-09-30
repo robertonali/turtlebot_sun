@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="turtlebot_sun" type="lf.py" name="topic_publisher" output="screen"> </node>
+</launch>
