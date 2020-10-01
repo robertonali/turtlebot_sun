@@ -2,5 +2,10 @@
     "python.autoComplete.extraPaths": [
         "/home/chetzz/catkin_ws/devel/lib/python2.7/dist-packages",
         "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.pythonPath": "/usr/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/chetzz/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
     ]
 }
